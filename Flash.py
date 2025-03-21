@@ -1,10 +1,13 @@
 import json
 
-into = input("Are you a Student or Teacher: ")
+info = input("Are you a Student or Teacher: ")
 
-class Student:
-    def answer_cards:
-        
+class Teacher:
+    def make_cards():
+        a = input("Do you want to make a flashcard?" )
+        if a == "yes":
+            
+
 
 
 
